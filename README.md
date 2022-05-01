@@ -14,3 +14,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=enigmacoder-bot&show_icons=true&locale=en" alt="enigmacoder-bot" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=enigmacoder-bot&" alt="enigmacoder-bot" /></p>
+
+<h2>Programming Resources https://github.com/enigmacoder-bot/resources </h2>
