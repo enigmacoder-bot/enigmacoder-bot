@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Enigmacoder-bot</h1>
-<h3 align="center">A Computer Science Student</h3>
+<h3 align="center">A Software Engineer</h3>
 
 - 🌱 I’m currently learning **React,FastAPI**
 
